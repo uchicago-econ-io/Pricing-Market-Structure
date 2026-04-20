@@ -57,6 +57,7 @@ It is especially useful for:
 | Olivier Wang, Iván Werning | *Dynamic Oligopoly and Price Stickiness* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E166161V1) |
 | Aljoscha Janssen, Xuan Zhang | *Retail Pharmacies and Drug Diversion during the Opioid Epidemic* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E170881V1) |
 | Alexis Antoniades, Robert C. Feenstra, Mingzhi Xu | *Using Retail Distribution to Impute Expenditure Shares* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E163361V1) |
+| Kevin R. Williams | *The Welfare Effects of Dynamic Pricing: Evidence from Airline Markets* | *Econometrica* | 2022 | [Open](https://www.econometricsociety.org/publications/econometrica/2022/03/01/welfare-effects-dynamic-pricing-evidence-airline-markets/supp/16180_Data_and_Programs.zip) |
 | Michaël Rubens | *Market Structure, Oligopsony Power, and Productivity* | *American Economic Review* | 2023 | [Open](https://doi.org/10.3886/E186041V1) |
 | Matthew Gentzkow et al. | *Pricing Power in Advertising Markets* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193824V1) |
 | Juan Pablo Atal et al. | *The Economics of the Public Option* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193764V1) |
