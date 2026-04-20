@@ -66,5 +66,5 @@ It is especially useful for:
 
 ## Additional Information
 
-Our private repository contains additional code and datasets from research papers related to **pricing and market structure**, **search**, **health care markets**, **energy and environmental markets**, **demand estimation**, **digital markets**, **auctions**, and **vertical markets**, along with other conference topics.  
-Please complete the conference access form to request entry.
+Our private repository contains additional code and datasets from research papers related to **pricing and market structure**.  
+Please complete the access form to request entry.
