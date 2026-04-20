@@ -23,6 +23,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Aviv Nevo, Daniel L. Rubinfeld, Mark McCabe | *Academic Journal Pricing and the Demand of Libraries* | *American Economic Review* | 2005 | [Open](https://www.openicpsr.org/openicpsr/project/112321/version/V1/view) |
 | Christian Broda, David E. Weinstein | *Product Creation and Destruction: Evidence and Price Implications* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112355V1) |
 | Roberto M. Samaniego | *Entry, Exit, and Investment-Specific Technical Change* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112323V1) |
 | Avi Goldfarb, Mo Xiao | *Who Thinks about the Competition? Managerial Ability and Strategic Entry in US Local Telephone Markets* | *American Economic Review* | 2011 | [Open](https://doi.org/10.3886/E112476V1) |
