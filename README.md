@@ -28,10 +28,10 @@ It is especially useful for:
 | Roberto M. Samaniego | *Entry, Exit, and Investment-Specific Technical Change* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112323V1) |
 | Avi Goldfarb, Mo Xiao | *Who Thinks about the Competition? Managerial Ability and Strategic Entry in US Local Telephone Markets* | *American Economic Review* | 2011 | [Open](https://doi.org/10.3886/E112476V1) |
 | Gita Gopinath, Pierre-Olivier Gourinchas, Chang-Tai Hsieh, Nicholas Li | *International Prices, Costs, and Markup Differences* | *American Economic Review* | 2011 | [Open](https://doi.org/10.3886/E112460V1) |
-| Philippe Gagnepain, Marc Ivaldi, David Martimort | *The Cost of Contract Renegotiation: Evidence from the Local Public Sector* | *American Economic Review* | 2013 | [Open](https://www.openicpsr.org/openicpsr/project/112676/version/V1/view) |
 | Chenghuan Sean Chu, Phillip Leslie, Alan Sorensen | *Bundle-Size Pricing as an Approximation to Mixed Bundling* | *American Economic Review* | 2011 | [Open](https://doi.org/10.3886/E112397V1) |
 | M. Kate Bundorf, Jonathan Levin, Neale Mahoney | *Pricing and Welfare in Health Plan Choice* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112566V1) |
 | Katja Seim, Joel Waldfogel | *Public Monopoly and Economic Efficiency: Evidence from the Pennsylvania Liquor Control Board's Entry Decisions* | *American Economic Review* | 2013 | [Open](https://doi.org/10.3886/E112605V1) |
+| Philippe Gagnepain, Marc Ivaldi, David Martimort | *The Cost of Contract Renegotiation: Evidence from the Local Public Sector* | *American Economic Review* | 2013 | [Open](https://www.openicpsr.org/openicpsr/project/112676/version/V1/view) |
 | Koichiro Ito | *Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112736V1) |
 | Matthew Gentzkow, Jesse M. Shapiro, Michael Sinkinson | *Competition and Ideological Diversity: Historical Evidence from US Newspapers* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/e231350v1) |
 | David Besanko, Ulrich Doraszelski, Yaroslav Kryukov | *The Economics of Predation: What Drives Pricing When There Is Learning-by-Doing?* | *American Economic Review* | 2014 | [Open](https://doi.org/10.3886/E112747V1) |
