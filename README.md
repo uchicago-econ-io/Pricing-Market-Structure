@@ -46,6 +46,7 @@ It is especially useful for:
 | David Besanko, Ulrich Doraszelski, Yaroslav Kryukov | *How Efficient Is Dynamic Competition? The Case of Price as Investment* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E116206V1) |
 | Chenghuan Sean Chu, Marc Rysman | *Competition and Strategic Incentives in the Market for Credit Ratings* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E116158V1) |
 | Lauren Bergquist, Michael Dinerstein | *Competition and Entry in Agricultural Markets: Experimental Evidence from Kenya* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119743V1) |
+| Pierre Dubois, Rachel Griffith, Martin O’Connell | *How Well Targeted Are Soda Taxes?* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/120232/version/V2/view) |
 | Erica Bosio, Simeon Djankov, Edward L. Glaeser, Andrei Shleifer | *Public Procurement in Law and Practice* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E153181V1) |
 | David Berger, Kyle Herkenhoff, Simon Mongey | *Labor Market Power* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E154241V2) |
 | Litterio Mirenda, Sauro Mocetti, Lucia Rizzica | *The Economic Effects of Mafia: Firm Level Evidence* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E160421V1) |
