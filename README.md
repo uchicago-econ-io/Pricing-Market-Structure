@@ -7,7 +7,7 @@
 
 ---
 
-## 🌟 Why This Repo
+## 🌟 About
 
 This repository is meant to make replication work in pricing and market structure more accessible by providing a centralized collection of datasets and code.
 
