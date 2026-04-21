@@ -62,7 +62,7 @@ It is especially useful for:
 | Matthew Gentzkow et al. | *Pricing Power in Advertising Markets* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193824V1) |
 | Juan Pablo Atal et al. | *The Economics of the Public Option* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193764V1) |
 | Gabriel Kreindler | *Peak-Hour Road Congestion Pricing* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10637043) |
-| Gaurab Aryal, Charles Murry, Jonathan W. Williams | *Price Discrimination in International Airline Markets* | *The Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/7392123) |
+| Gaurab Aryal, Charles Murry, Jonathan W. Williams | *Price Discrimination in International Airline Markets* | *The Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/7392123) | 
 | Bruno Pellegrino | *Product Differentiation and Oligopoly* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E209030V1) |
 | Gideon Bornstein, A. John Peter | *Nonlinear Pricing and Misallocation* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E232581V1) |
 | Zach Y. Brown, Eduardo Montero, Carlos Schmidt-Padilla, Maria Micaela Sviatschi | *Market Structure and Extortion: Evidence from 50,000 Extortion Payments* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10855174) |
