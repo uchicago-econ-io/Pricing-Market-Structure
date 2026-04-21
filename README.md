@@ -62,7 +62,6 @@ It is especially useful for:
 | Matthew Gentzkow et al. | *Pricing Power in Advertising Markets* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193824V1) |
 | Juan Pablo Atal et al. | *The Economics of the Public Option* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193764V1) |
 | Gabriel Kreindler | *Peak-Hour Road Congestion Pricing* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10637043) |
-| Pietro Tebaldi | *Equilibrium in Health Insurance Exchanges* | *Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/10456091) |
 | Bruno Pellegrino | *Product Differentiation and Oligopoly* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E209030V1) |
 | Gideon Bornstein, A. John Peter | *Nonlinear Pricing and Misallocation* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E232581V1) |
 
