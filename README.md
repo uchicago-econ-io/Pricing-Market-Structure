@@ -64,6 +64,7 @@ It is especially useful for:
 | Juan Pablo Atal et al. | *The Economics of the Public Option* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193764V1) |
 | Gabriel Kreindler | *Peak-Hour Road Congestion Pricing* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10637043) |
 | Gaurab Aryal, Charles Murry, Jonathan W. Williams | *Price Discrimination in International Airline Markets* | *The Review of Economic Studies* | 2024 | [Open](https://zenodo.org/records/7392123) | 
+| Paul L. E. Grieco, Charles Murry, Ali Yurukoglu | *The Evolution of Market Power in the U.S. Automobile Industry* | *The Quarterly Journal of Economics* | 2024 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CZGOKP) |
 | Bruno Pellegrino | *Product Differentiation and Oligopoly* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E209030V1) |
 | Gideon Bornstein, A. John Peter | *Nonlinear Pricing and Misallocation* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E232581V1) |
 | Zach Y. Brown, Eduardo Montero, Carlos Schmidt-Padilla, Maria Micaela Sviatschi | *Market Structure and Extortion: Evidence from 50,000 Extortion Payments* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10855174) |
