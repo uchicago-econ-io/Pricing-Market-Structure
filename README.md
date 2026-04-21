@@ -46,6 +46,7 @@ It is especially useful for:
 | Martin B. Hackmann | *Incentivizing Better Quality of Care: The Role of Medicaid and Competition in the Nursing Home Industry* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E113082V1) |
 | Sebastian Di Tella | *Optimal Regulation of Financial Intermediaries* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E113160V1) |
 | David Besanko, Ulrich Doraszelski, Yaroslav Kryukov | *How Efficient Is Dynamic Competition? The Case of Price as Investment* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E116206V1) |
+| Xavier D’Haultfœuille, Isis Durrmeyer, Philippe Février | *Automobile Prices in Market Equilibrium with Unobserved Price Discrimination* | *The Review of Economic Studies* | 2019 | [Open](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/restud/86/5/10.1093_restud_rdy064/1/rdy064_supplementary_data.zip) |
 | Chenghuan Sean Chu, Marc Rysman | *Competition and Strategic Incentives in the Market for Credit Ratings* | *American Economic Review* | 2019 | [Open](https://doi.org/10.3886/E116158V1) |
 | Lauren Bergquist, Michael Dinerstein | *Competition and Entry in Agricultural Markets: Experimental Evidence from Kenya* | *American Economic Review* | 2020 | [Open](https://doi.org/10.3886/E119743V1) |
 | Pierre Dubois, Rachel Griffith, Martin O’Connell | *How Well Targeted Are Soda Taxes?* | *American Economic Review* | 2020 | [Open](https://www.openicpsr.org/openicpsr/project/120232/version/V2/view) |
