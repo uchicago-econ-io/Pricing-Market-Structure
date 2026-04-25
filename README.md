@@ -23,6 +23,7 @@ It is especially useful for:
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
+| Michael D. Grubb | *Selling to Overconfident Consumers* | *American Economic Review* | 2009 | [Open](https://doi.org/10.3886/E113333V1) |
 | Aviv Nevo, Daniel L. Rubinfeld, Mark McCabe | *Academic Journal Pricing and the Demand of Libraries* | *American Economic Review* | 2005 | [Open](https://www.openicpsr.org/openicpsr/project/112321/version/V1/view) |
 | Christian Broda, David E. Weinstein | *Product Creation and Destruction: Evidence and Price Implications* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112355V1) |
 | Roberto M. Samaniego | *Entry, Exit, and Investment-Specific Technical Change* | *American Economic Review* | 2010 | [Open](https://doi.org/10.3886/E112323V1) |
