@@ -11,12 +11,6 @@
 
 This repository is meant to make replication work in pricing and market structure more accessible by providing a centralized collection of datasets and code.
 
-It is especially useful for:
-
-- researchers   
-- students working on industrial organization and applied microeconomics  
-- instructors building replication-based coursework  
-
 ---
 
 ## 📦 Replication Packages
@@ -43,6 +37,7 @@ It is especially useful for:
 | David Atkin, Azam Chaudhry, Shamyla Chaudry, Amit Khandelwal, Eric Verhoogen | *Markup and Cost Dispersion across Firms: Direct Evidence from Producer Surveys in Pakistan* | *American Economic Review* | 2015 | [Open](https://doi.org/10.3886/E113385V1) |
 | Aviv Nevo, John L. Turner, Jonathan W. Williams | *Usage-Based Pricing and Demand for Residential Broadband* | *Econometrica* | 2016 | [Open](https://www.econometricsociety.org/publications/econometrica/2016/03/01/usage-based-pricing-and-demand-residential-broadband/supp/11927_Data_and_Programs.zip) |
 | Amitabh Chandra, Amy Finkelstein, Adam Sacarny, Chad Syverson | *Productivity Dispersion in Medicine and Manufacturing* | *American Economic Review* | 2016 | [Open](https://doi.org/10.3886/E113445V1) |
+| Jan De Loecker, Pinelopi K. Goldberg, Amit K. Khandelwal, Nina Pavcnik | *Prices, Markups, and Trade Reform* | *Econometrica* | 2016 | [Open](https://www.econometricsociety.org/publications/econometrica/2016/03/01/prices-markups-and-trade-reform/supp/11042_Data_and_Programs.zip) |
 | Øyvind Thomassen, Howard W. Smith, Stephan Seiler, Pasquale Schiraldi | *Multi-Category Competition and Market Power: A Model of Supermarket Pricing* | *American Economic Review* | 2017 | [Open](https://doi.org/10.3886/E113116V1) |
 | Manolis Galenianos, Alessandro Gavazza | *A Structural Model of the Retail Market for Illicit Drugs* | *American Economic Review* | 2017 | [Open](https://doi.org/10.3886/E113059V2) |
 | Jeanne Lafortune, Corinne Low | *Tying the Double-Knot: The Role of Assets in Marriage Commitment* | *American Economic Review* | 2017 | [Open](https://doi.org/10.3886/E116318V1) |
