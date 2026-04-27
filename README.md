@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Pricing & Market Structure Replication Packages</h1>
   <p align="center">
-    A curated collection of replication code and datasets for papers on pricing, competition, and market structure.
+    A curated collection of replication code and datasets for papers on pricing, and market structure.
   </p>
 </p>
 
