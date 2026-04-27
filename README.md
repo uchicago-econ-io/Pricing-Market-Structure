@@ -60,6 +60,7 @@ This repository is meant to make replication work in pricing and market structur
 | Alexis Antoniades, Robert C. Feenstra, Mingzhi Xu | *Using Retail Distribution to Impute Expenditure Shares* | *American Economic Review* | 2022 | [Open](https://doi.org/10.3886/E163361V1) |
 | Kevin R. Williams | *The Welfare Effects of Dynamic Pricing: Evidence from Airline Markets* | *Econometrica* | 2022 | [Open](https://www.econometricsociety.org/publications/econometrica/2022/03/01/welfare-effects-dynamic-pricing-evidence-airline-markets/supp/16180_Data_and_Programs.zip) |
 | Michaël Rubens | *Market Structure, Oligopsony Power, and Productivity* | *American Economic Review* | 2023 | [Open](https://doi.org/10.3886/E186041V1) |
+| Avner Strulov-Shlain | *More Than a Penny’s Worth: Left-Digit Bias and Firm Pricing* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/7075310) |
 | Matthew Gentzkow et al. | *Pricing Power in Advertising Markets* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193824V1) |
 | Juan Pablo Atal et al. | *The Economics of the Public Option* | *American Economic Review* | 2024 | [Open](https://doi.org/10.3886/E193764V1) |
 | Gabriel Kreindler | *Peak-Hour Road Congestion Pricing* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10637043) |
