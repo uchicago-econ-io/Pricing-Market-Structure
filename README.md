@@ -71,6 +71,45 @@ This repository is meant to make replication work in pricing and market structur
 | Gideon Bornstein, A. John Peter | *Nonlinear Pricing and Misallocation* | *American Economic Review* | 2025 | [Open](https://doi.org/10.3886/E232581V1) |
 | Zach Y. Brown, Eduardo Montero, Carlos Schmidt-Padilla, Maria Micaela Sviatschi | *Market Structure and Extortion: Evidence from 50,000 Extortion Payments* | *The Review of Economic Studies* | 2025 | [Open](https://zenodo.org/records/10855174) |
 
+
+## Other
+
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Steven Berry, Panle Jia | *Tracing the Woes: An Empirical Analysis of the Airline Industry* | *American Economic Journal: Microeconomics* | 2010 | [Open](https://doi.org/10.3886/E114375V1) |
+| James W. Roberts | *Can Warranties Substitute for Reputations?* | *American Economic Journal: Microeconomics* | 2011 | [Open](https://doi.org/10.3886/E114386V1) |
+| Ryan C. McDevitt | *Names and Reputations: An Empirical Analysis* | *American Economic Journal: Microeconomics* | 2011 | [Open](https://doi.org/10.3886/E114384V1) |
+| Adam D. Rennhoff, Mark F. Owens | *Competition and the Strategic Choices of Churches* | *American Economic Journal: Microeconomics* | 2012 | [Open](https://doi.org/10.3886/E114398V1) |
+| Sergey V. Popov, Dan Bernhardt | *Fraternities and Labor-Market Outcomes* | *American Economic Journal: Microeconomics* | 2012 | [Open](https://doi.org/10.3886/E114392V1) |
+| Eugenio J. Miravete | *Competition and the Use of Foggy Pricing* | *American Economic Journal: Microeconomics* | 2013 | [Open](https://doi.org/10.3886/E116442V1) |
+| Przemysław Jeziorski | *Effects of Mergers in Two-Sided Markets: The US Radio Industry* | *American Economic Journal: Microeconomics* | 2014 | [Open](https://doi.org/10.3886/E114425V1) |
+| Daniel W. Elfenbein, Raymond Fisman, Brian McManus | *Market Structure, Reputation, and the Value of Quality Certification* | *American Economic Journal: Microeconomics* | 2015 | [Open](https://doi.org/10.3886/E114327V1) |
+| E. Glen Weyl, André Veiga | *Pricing Institutions and the Welfare Cost of Adverse Selection* | *American Economic Journal: Microeconomics* | 2017 | [Open](https://doi.org/10.3886/E114350V1) |
+| Charles R. Plott, Kirill Pogorelskiy | *Call Market Experiments: Efficiency and Price Discovery through Multiple Calls and Emergent Newton Adjustments* | *American Economic Journal: Microeconomics* | 2017 | [Open](https://doi.org/10.3886/E114345V1) |
+| Ambarish Chandra, Mara Lederman | *Revisiting the Relationship between Competition and Price Discrimination* | *American Economic Journal: Microeconomics* | 2018 | [Open](https://doi.org/10.3886/E114359V1) |
+| Greg Kaplan, Guido Menzio, Leena Rudanko, Nicholas Trachter | *Relative Price Dispersion: Evidence and Theory* | *American Economic Journal: Microeconomics* | 2019 | [Open](https://doi.org/10.3886/E116437V1) |
+| Tommy Andersson, Ágnes Cseh, Lars Ehlers, Albin Erlanson | *Organizing Time Exchanges: Lessons from Matching Markets* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E118343V1) |
+| Olivier Bochet, Simon Siegenthaler | *Competition and Price Transparency in the Market for Lemons: Experimental Evidence* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E116771V1) |
+| Aaron Barkley | *Cost and Efficiency in Government Outsourcing: Evidence from the Dredging Industry* | *American Economic Journal: Microeconomics* | 2021 | [Open](https://doi.org/10.3886/E121081V1) |
+| Richard Friberg, Frode Steen, Simen A. Ulsaker | *Hump-Shaped Cross-Price Effects and the Extensive Margin in Cross-Border Shopping* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E117803V1) |
+| Germán Gieczewski | *Term Limits and Bargaining Power in Electoral Competition* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E145241V1) |
+| Zach Y. Brown, Alexander MacKay | *Competition in Pricing Algorithms* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E151303V1) |
+| Itai Ater, Oren Rigbi | *Price Transparency, Media, and Informative Advertising* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E165326V1) |
+| Xiang Hui, Maryam Saeedi, Giancarlo Spagnolo, Steven Tadelis | *Raising the Bar: Certification Thresholds and Market Outcomes* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E153301V1) |
+| Daniel Quint, Marek Weretka | *Slope Takers in Anonymous Markets* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E179101V1) |
+| Charles Hodgson | *Trade-ins and Transaction Costs in the Market for Used Business Jets* | *American Economic Journal: Microeconomics* | 2023 | [Open](https://doi.org/10.3886/E182602V1) |
+| Sergey Kokovin, Alina Ozhegova, Shamil Sharapudinov, Alexander Tarasov, Philip Ushchev | *A Theory of Monopolistic Competition with Horizontally Heterogeneous Consumers* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E186482V1) |
+| Andrew Sweeting, Xuezhen Tao, Xinlu Yao | *Dynamic Oligopoly Pricing with Asymmetric Information: Implications for Horizontal Mergers* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E192405V1) |
+| Eddie Watkins | *The Dynamic Effects of Recycling on Oligopoly Competition: Evidence from the US Paper Industry* | *American Economic Journal: Microeconomics* | 2024 | [Open](https://doi.org/10.3886/E183702V1) |
+| Xavier Vives, Orestis Vravosinos | *Free Entry in a Cournot Market with Overlapping Ownership* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E202069V1) |
+| Raphael Corbi, Fábio Miessi Sanches | *Church Tax Exemption and Structure of Religious Markets: A Dynamic Structural Analysis* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E198567V1) |
+| Daniel Chaves, Marco Antônio Húngaro Duarte | *The Inner Workings of a Hub-and-Spoke Cartel in the Automotive Fuel Industry* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E195066V1) |
+| Adam Harris, Thi Mai Anh Nguyen | *Long-Term Relationships in the US Truckload Freight Industry* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E201641V1) |
+| Yehuda John Levy, André Veiga | *Optimal Contract Regulation in Selection Markets* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E204561V1) |
+| Wanda Mimra, Christian Waibel | *Contracting Environments and Efficiency in Markets with Hidden Information: An Experiment* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E201307V1) |
+
+
 ---
 
 ## Additional Information
