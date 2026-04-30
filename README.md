@@ -15,6 +15,8 @@ This repository is meant to make replication work in pricing and market structur
 
 ## 📦 Replication Packages
 
+## Top 5
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | John Sutton | *Market Share Dynamics and the “Persistence of Leadership” Debate* | *American Economic Review* | 2007 | [Open](https://doi.org/10.3886/E116257V1) |
