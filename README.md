@@ -76,17 +76,17 @@ This repository is meant to make replication work in pricing and market structur
 
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
-| Renáta Kosová | *Do Foreign Firms Crowd Out Domestic Firms? Evidence from the Czech Republic* | Review of Economics and Statistics | 2010 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IZA0UB |
-| Albert Park; Dean Yang; Xinzheng Shi; Yuan Jiang | *Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis* | Review of Economics and Statistics | 2010 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJ3QDZ |
-| Pinelopi K Goldberg; Amit K Khandelwal; Nina Pavcnik; Petia Topalova | *Multiproduct Firms and Product Turnover in the Developing World: Evidence from India* | Review of Economics and Statistics | 2010 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQMEJU |
-| David C. Wheelock; Paul W. Wilson | *Are Credit Unions Too Small?* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IQQEDX |
-| Edward S. Knotek | *Convenient Prices and Price Rigidity: Cross-Sectional Evidence* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BC6GOW |
-| Daniel Levy; Dongwon Lee; Haipeng (Allan) Chen; Robert J. Kauffman; Mark Bergen | *Price Points and Price Rigidity* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSGV4Q |
-| David R Just; Brian Wansink | *The Flat-Rate Pricing Paradox: Conflicting Effects of "All-You-Can-Eat" Buffet Pricing* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XGIXHN |
-| Matthew Lewis; Michael Noel | *The Speed of Gasoline Price Response in Markets with and without Edgeworth Cycles* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UJDNLD |
-| John S. Greenlees; Robert McClelland | *New Evidence on Outlet Substitution Effects in Consumer Price Index Data* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0LCVNZ |
-| Antara Dutta | *From Free Entry to Patent Protection: Welfare Implications for the Indian Pharmaceutical Industry* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CVK22Q |
-| Miriam Bruhn | *License to Sell: The Effect of Business Registration Reform on Entrepreneurial Activity in Mexico* | Review of Economics and Statistics | 2011 | https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSQJOM |
+| Renáta Kosová | *Do Foreign Firms Crowd Out Domestic Firms? Evidence from the Czech Republic* | Review of Economics and Statistics | 2010 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IZA0UB) |
+| Albert Park; Dean Yang; Xinzheng Shi; Yuan Jiang | *Exporting and Firm Performance: Chinese Exporters and the Asian Financial Crisis* | Review of Economics and Statistics | 2010 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YJ3QDZ) |
+| Pinelopi K Goldberg; Amit K Khandelwal; Nina Pavcnik; Petia Topalova | *Multiproduct Firms and Product Turnover in the Developing World: Evidence from India* | Review of Economics and Statistics | 2010 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RQMEJU) |
+| David C. Wheelock; Paul W. Wilson | *Are Credit Unions Too Small?* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IQQEDX) |
+| Edward S. Knotek | *Convenient Prices and Price Rigidity: Cross-Sectional Evidence* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/BC6GOW) |
+| Daniel Levy; Dongwon Lee; Haipeng (Allan) Chen; Robert J. Kauffman; Mark Bergen | *Price Points and Price Rigidity* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RSGV4Q) |
+| David R Just; Brian Wansink | *The Flat-Rate Pricing Paradox: Conflicting Effects of "All-You-Can-Eat" Buffet Pricing* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/XGIXHN) |
+| Matthew Lewis; Michael Noel | *The Speed of Gasoline Price Response in Markets with and without Edgeworth Cycles* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UJDNLD) |
+| John S. Greenlees; Robert McClelland | *New Evidence on Outlet Substitution Effects in Consumer Price Index Data* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0LCVNZ) |
+| Antara Dutta | *From Free Entry to Patent Protection: Welfare Implications for the Indian Pharmaceutical Industry* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CVK22Q) |
+| Miriam Bruhn | *License to Sell: The Effect of Business Registration Reform on Entrepreneurial Activity in Mexico* | Review of Economics and Statistics | 2011 | [Open](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZSQJOM) |
 
 
 
