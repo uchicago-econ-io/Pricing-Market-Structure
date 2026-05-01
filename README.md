@@ -208,7 +208,11 @@ This repository is meant to make replication work in pricing and market structur
 | Wanda Mimra, Christian Waibel | *Contracting Environments and Efficiency in Markets with Hidden Information: An Experiment* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E201307V1) |
 
 
+## Other
 
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Pascal Mossay, Jong Kook Shin, Grega Smrkolj | *Quality Differentiation and Spatial Clustering among Restaurants* | *International Journal of Industrial Organization* | 2022 | [Open](https://data.mendeley.com/datasets/jvt7j7y39j/1) |
 
 ---
 
