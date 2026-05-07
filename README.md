@@ -213,6 +213,7 @@ This repository is meant to make replication work in pricing and market structur
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Pascal Mossay, Jong Kook Shin, Grega Smrkolj | *Quality Differentiation and Spatial Clustering among Restaurants* | *International Journal of Industrial Organization* | 2022 | [Open](https://data.mendeley.com/datasets/jvt7j7y39j/1) |
+| Christopher Conlon, Nathan H. Miller, Tsolmon Otgon, Yi Yao | *Rising Markups, Rising Prices?* | *AEA Papers and Proceedings* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/189826/version/V1/view) |
 
 ---
 
