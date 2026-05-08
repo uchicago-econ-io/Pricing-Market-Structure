@@ -215,6 +215,7 @@ This repository is meant to make replication work in pricing and market structur
 | Pascal Mossay, Jong Kook Shin, Grega Smrkolj | *Quality Differentiation and Spatial Clustering among Restaurants* | *International Journal of Industrial Organization* | 2022 | [Open](https://data.mendeley.com/datasets/jvt7j7y39j/1) |
 | Iman Ahmadi | *Face/Off: The adverse effects of increased competition* | *Quantitative Marketing and Economics* | 2023 | [Open](https://data.mendeley.com/datasets/383wc6f6d6/1) |
 | Christopher Conlon, Nathan H. Miller, Tsolmon Otgon, Yi Yao | *Rising Markups, Rising Prices?* | *AEA Papers and Proceedings* | 2023 | [Open](https://www.openicpsr.org/openicpsr/project/189826/version/V1/view) |
+| Günter J. Hitsch; Sanjog Misra; Walter W. Zhang | *Heterogeneous treatment effects and optimal targeting policy evaluation* | *Quantitative Marketing and Economics* | 2024 | [Open](https://github.com/walterwzhang/causalKNN) |
 
 ---
 
